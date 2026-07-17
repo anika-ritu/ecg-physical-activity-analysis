@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+data/
+results/
+outputs/
+*.xls
+*.xlsx
+*.csv
+!example_lifestyle.csv
