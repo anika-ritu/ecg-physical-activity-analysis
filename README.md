@@ -18,9 +18,5 @@ The participant dataset is not included.
 ## Citation
 
 ```text
-A. T. Ritu, A. K. Sarkar, and S. Bosak, “Statistical Analysis of Physical
-Activity’s Impact on Cardiovascular Health Using ECG and Lifestyle Metrics,”
-in 2025 International Conference on Electrical, Computer and Communication
-Engineering (ECCE), 2025, pp. 2609–2614,
-doi: 10.1109/ECCE64574.2025.11013916.
+A. T. Ritu, A. K. Sarkar, and S. Bosak, “Statistical Analysis of Physical Activity’s Impact on Cardiovascular Health Using ECG and Lifestyle Metrics,” in 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE), 2025, pp. 2609–2614, doi: 10.1109/ECCE64574.2025.11013916.
 ```
